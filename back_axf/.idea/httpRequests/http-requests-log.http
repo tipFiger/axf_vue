@@ -1,0 +1,76 @@
+POST http://localhost:8000/api/user/auth/register/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T114438.500.html
+
+###
+
+POST http://localhost:8000/api/user/auth/register/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T114302.500.html
+
+###
+
+POST http://localhost:8000/api/user/auth/register/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T114232.500.html
+
+###
+
+POST http://localhost:8080/api/user/auth/register/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/api/user/auth/register/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T112103.500.html
+
+###
+
+GET http://localhost:8080/api/user/auth/register/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T112052.500.html
+
+###
+
+GET http://localhost:8080/api/user/auth/register/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T112005.500.html
+
+###
+
+GET http://localhost:8080/api/user/auth/register/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T111914.500.html
+
+###
+
+GET http://localhost:8080/api/user/auth/register/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T111753.500.html
+
+###
+
+POST http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+
